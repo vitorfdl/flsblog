@@ -547,9 +547,13 @@ h5, h6          { font-weight: bolder }
     color: #4b4848;
     font-family: "raleway-semibold", arial;
     font-weight: bold;
-    line-height: 28px;
-    margin-bottom: 20px;
+    line-height: 15px;
+    margin-bottom: 10px;
     margin-top: 40px;
+}
+
+.content h1 {
+    text-align: center;
 }
 
 .content img{
@@ -558,8 +562,8 @@ h5, h6          { font-weight: bolder }
     display: block;
 }
 
-.content ol::first-line, .content ul::first-line{
-    margin-left: 15px;
+.content ol, .content ul {
+    margin-left: 35px;
 }
 
 .content div.archive-title{
@@ -603,7 +607,7 @@ h5, h6          { font-weight: bolder }
     z-index: 999;
     opacity: 0;
     text-align: center;
-    letter-spacing: .5px;
+    letter-spacing: 1px;
 
 }
 
