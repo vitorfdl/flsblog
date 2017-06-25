@@ -126,7 +126,12 @@ h5, h6          { font-weight: bolder }
     }
 
     header .logo{
-        margin-top: 100px;
+        margin-top: 20px;
+    }
+
+    header .logo img {
+        align-content: center;
+        width: 8em;
     }
 
     header .logo a, header .logo a:active, header .logo a:visited {
@@ -146,7 +151,7 @@ h5, h6          { font-weight: bolder }
     header nav ul{
         display: block;
         overflow: hidden;
-        margin-top: 100px;
+        margin-top: 50px;
         list-style: none;
     }
 
