@@ -618,6 +618,10 @@ h5, h6          { font-weight: bolder }
     color: #969595;
 }
 
+.content table td {
+    padding-right: 20px;
+}
+
 /*  Tooltip  */
 .tooltip{
     display: block;
