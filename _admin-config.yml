@@ -1,0 +1,4 @@
+options:
+  overwriteImages: true
+  imagePrefix: ''
+  askImageFilename: true

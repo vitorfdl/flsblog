@@ -14,7 +14,7 @@ timezone: America/Sao_Paulo
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://sussurroseternos.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -79,7 +79,7 @@ menu:
   Introdução: /introduction
   Publicações: /archives
   Downloads: /downloads
-  Fórum: /forum
+  Fórum: http://sussurroseternos.boards.net
   Chat: /chat
 
 favicon: /favicon.png
@@ -112,3 +112,13 @@ facebook_url: https://www.facebook.com/groups/452168018171849/?ref=bookmarks
 #googleplus_url: https://plus.google.com/+Pixelhint/posts
 #dribble_url: https://dribbble.com/pixelhint
 #rss_url:
+
+autolinker:
+    enable: true
+    newWindow: false
+    urls: true
+    email: false
+    tel: false
+    twitter: false
+    hashtag: instagram
+    className: ''

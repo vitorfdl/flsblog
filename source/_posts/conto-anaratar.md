@@ -1,11 +1,11 @@
----
 title: O Anar'atar
-date: 2017-06-12 05:51:41
 cover_detail: /images/conto-anaratar/cover.jpg
 cover_index: /images/conto-anaratar/index.jpg
 tags:
   - contos
   - lore
+categories: []
+date: 2017-06-12 05:51:00
 ---
 
 **"Nunca deveríamos ter saido da estrada. Já se passaram horas e nenhum sinal de alguma caverna..."** — Pensou Teodor enquanto caminhava. Em dias de Lua Nova, tudo era perigoso, principalmente estar ao ar livre perto do anoitecer. Não que qualquer outra noite fosse tão diferente.

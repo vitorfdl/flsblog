@@ -298,6 +298,25 @@ h5, h6          { font-weight: bolder }
     position: relative;
     overflow: hidden;
 }
+.img-right {
+    max-width: 300px;
+    max-height: 600px;
+    display: block;
+    padding-left: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+    float: right;
+    clear: right;
+}
+.img-left {
+    max-width: 300px;
+    max-height: 600px;
+    display: block;
+    padding-right: 12px;
+    margin-right: 12px;
+    float: left;
+    clear: left;
+}
 
 .main .pagination-container{
     display: block;
@@ -597,6 +616,10 @@ h5, h6          { font-weight: bolder }
 
 .content ul.archive-list li a:hover{
     color: #969595;
+}
+
+.content table td {
+    padding-right: 20px;
 }
 
 /*  Tooltip  */
