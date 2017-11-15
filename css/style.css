@@ -1043,7 +1043,7 @@ code {
   font-size: 38px;
   letter-spacing: -1px;
   color: #555;
-  line-height: 1.3em;
+  line-height: 1em;
   -webkit-transition: color 0.2s;
   -moz-transition: color 0.2s;
   -ms-transition: color 0.2s;
@@ -1130,8 +1130,8 @@ a.article-title:hover {
 .article-entry h4,
 .article-entry h5,
 .article-entry h6 {
-  line-height: 1.3em;
-  margin: 1.3em 0;
+  line-height: 1em;
+  margin: 1em 0 -0.5em;
 }
 .article-entry a {
   color: #cd853f;
