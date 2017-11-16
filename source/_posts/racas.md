@@ -1,9 +1,11 @@
+---
 title: Raças
 author: Vitor Lima
-cover_index: /images/racas_index.jpg
-cover_detail: /images/racas_background.jpg
+thumbnail: /images/racas_background.jpg
 date: 2017-10-11 05:35:39
 tags:
+categories:
+  - História
 ---
 Na disputa pelo domínio de toda Âmbar três raças entraram em conflito ao longo dos anos. Os elfos chamados de [Valas](#valas), os humanos conhecidos como [Núros](#núros) e os meio-elfos [Alayárz](#alayárz).
 

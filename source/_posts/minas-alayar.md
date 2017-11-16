@@ -2,7 +2,7 @@
 title: As Minas-Alayár
 date: 2017-05-26 03:34:32
 cover_detail: /images/conto-alayar.jpg
-cover_index: /images/index-cover-alayar.jpg
+thumbnail: /images/index-cover-alayar.jpg
 tags:
   - contos
   - lore

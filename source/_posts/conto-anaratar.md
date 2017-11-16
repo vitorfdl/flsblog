@@ -1,6 +1,7 @@
+---
 title: O Anar'atar
 cover_detail: /images/conto-anaratar/cover.jpg
-cover_index: /images/conto-anaratar/index.jpg
+thumbnail: /images/conto-anaratar/index.jpg
 tags:
   - contos
   - lore

@@ -1,9 +1,12 @@
+---
 title: O Refúgio
 author: Vitor Lima
 date: 2017-10-12 16:34:33
 tags:
 cover_detail: /images/refugio_background.jpg
-cover_index: /images/refugio_index.jpg
+thumbnail: /images/refugio_index.jpg
+categories:
+  - Contos
 ---
 Liderado pelo Gladi'turã Yusuruh Mar'alen. O Refúgio constituiu a última civilização organizada de  mbar, ou assim acreditam seus moradores. Ela foi construída pelos sobreviventes de Ostorumë, quando o general abandonou as defesas da cidade após a morte do rei.
 

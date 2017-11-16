@@ -1,9 +1,11 @@
+---
 title: Moriquendi
 author: Vitor Lima
 date: 2017-10-12 15:14:24
 tags:
-cover_detail: /images/moriquendi/background.jpg
-cover_index: /images/moriquendi/index.jpg
+thumbnail: /images/moriquendi/background.jpg
+categories:
+  - História
 ---
 A existência dos moriquendi data muito antes da humanidade sequer existir. Embora o primeiro relato de sua aparição seja a seis mil anos atrás, é de se presumir que eles habitam o mundo por muito mais tempo.
 

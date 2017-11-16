@@ -1,7 +1,6 @@
+---
 title: Introdução
-cover_detail: /images/intro_background.jpg
-date: 2017-05-26 02:05:41
-cover_index:
+date: 2017-05-26 02:05:18
 ---
 Do leste árido à vasta e densa floresta no oeste, está o continente de Endórë. Um território hostil e selvagem, abrigando diversas ruínas antigas e fortes abandonados. Endórë é apenas um continente no mundo de  mbar. Navios chegam e vão há outras terras distantes, mas é em Endórë que está a última resistência da civilização, onde tudo acontece.
 
@@ -32,12 +31,13 @@ Até que chegou a Era da Calamidade. Os Moriquendi vieram com toda sua força e 
 * [O Refúgio](/orefugio/)
 
 ## Sistema
-* [Criação de Personagem]
+* [Criação de Personagem](/criacaopersonagem/)
 * [Classes](/classes/)
-	* [Guerreiro](/racas#guerreiro)
-	* [Mago](/racas#mago)
-	* [Ladino](/racas#ladino)
-* [Sistemas Básicos](/tags/sistema/)
+	* [Guerreiro](/classes#guerreiro)
+	* [Mago](/classes#mago)
+	* [Ladino](/classes#ladino)
+	* [Clérigo](/classes#clérigo)
+* [Sistemas Básicos](/categories/Sistemas/)
 * [Download do Jogo](/downloads/)
 
 ## Glossário<br/><br/>

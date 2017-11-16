@@ -1,9 +1,11 @@
+---
 title: Deuses
 author: Vitor Lima
-cover_index: /images/deuses/index.jpg
-cover_detail: /images/deuses/background.jpg
+thumbnail: /images/deuses/background.jpg
 date: 2017-10-11 19:56:31
 tags:
+categories:
+  - História
 ---
 O panteão de Âmbar é constitúido de três deuses, sua presença é inerte ao mundo e são venerado pelor diferentes raças e criaturas. Estes são: O deus do sol [Anar](#anar-deus-sol), a deusa da lua [Seredhiel](#seredhiel-deusa-lua) e a deusa das bestas [Eradich](#eradich-deusa-besta).
 

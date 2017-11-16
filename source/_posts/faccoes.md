@@ -1,16 +1,17 @@
+---
 title: Facções
 author: Vitor Lima
 tags:
-  - historia
   - seredhiel
   - anar
   - andarilhos
   - hessatar
-cover_detail: /images/faccoes_background.jpg
-cover_index: /images/faccoes_index.jpg
-categories: []
+thumbnail: /images/faccoes_background.jpg
 date: 2017-10-14 18:56:00
+categories:
+  - História
 ---
+
 ## Ordem de Seredhiel
 No tempo em que os Valas reinavam e não havia moriquendis para se preocupar, a Ordem era conhecida como Universidade. Agora, num nome mais distinto e talvez criado para separar os magos e suas crenças, eles foram alcunhados de Ordem de Seredhiel.
 

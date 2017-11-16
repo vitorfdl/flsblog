@@ -1,10 +1,10 @@
+---
 title: Linha do Tempo
 author: Vitor Lima
-tags:
-  - história
 cover_index: /images/linhadotempo_index.jpg
-cover_detail: /images/linhadotempo_background.jpg
-categories: []
+thumbnail: /images/linhadotempo_background.jpg
+categories:
+  - História
 date: 2017-10-10 18:55:00
 ---
 *Antes do mundo ser como o conhecemos, reis e rainhas subiram ao trono e deixaram sua marca. É importante conhecer o passado para entender o presente.*
