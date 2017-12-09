@@ -6,7 +6,7 @@ Do leste árido à vasta e densa floresta no oeste, está o continente de Endór
 
 A estradas antigamente usadas com frequência, agora são cobertas pelas gramas altas e mal podem ser reconhecidas. Criaturas mortíferas  e magias perversas são o cotidiano daqueles que se aventuram para além das proteções do deus *Anar*. 
 
- mbar é um mundo habitado por uma grande diversidade de criaturas inteligentes e outras nem tanto. *Núros (humanos), *Valas* (elfos) e *Alayárz* (meio-elfos) coexistem em uma tênue balança de poder, onde culturas constantemente se chocam e mágoas antigas influenciam importantes decisões.
+ mbar é um mundo habitado por uma grande diversidade de criaturas inteligentes e outras nem tanto. *Núros* (humanos), *Valas* (elfos) e *Alayárz*  (meio-elfos) coexistem em uma tênue balança de poder, onde culturas constantemente se chocam e mágoas antigas influenciam importantes decisões.
 
 Os conflitos se iniciaram antes a Era da Calamidade, quando os primeiros Valas dominaram os Núros. Nunca tendo antes visto a magia e o seu poder devastador, tornando as leis da física sua perversa inimiga, os Núros tiveram uma derrota vexaminosa. Suas cidades rapidamente tomadas, líderes mortos e a população escravizada.
 

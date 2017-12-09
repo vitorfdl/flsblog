@@ -1,7 +1,7 @@
-title: chat
+---
+title: Chat
 date: 2017-05-26 02:12:00
 cover_detail: /images/downloads_background.jpg
-
 ---
 Para comunicação, utilizamos o serviço do Discord. Crie uma conta e participe da nossa comunidade acessando o seguinte link: https://discord.gg/8habP32
 

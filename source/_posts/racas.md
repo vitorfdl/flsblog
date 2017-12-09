@@ -16,6 +16,12 @@ Seres graciosos de porte majestoso  e traços finos, os Valas são criaturas ass
 ![](/images/raca_valas.jpg){ .img-left }
 Medem em média 1,60m de altura a pouco mais de 1,80m. São de um corpo mais esguio e os machos mais pesados do que as fêmeas. A cor de pele pode variar em cores claras, mas também incluindo cores de cobre, bronze e branco-azulado. Seus cabelos tendem a tons loiros, azuis e verdes. Os Valas não possuem pêlos faciais e pouco pêlos no corpo.
 
+#### Bonificações de Raça
+* +2 de Inteligência e +1 de Destreza
++ +10 Meses de Vida Inicial
++ Visão Nortuna
++ Entender a Linguagem Élfica
+
 #### Vida Longa
 Podem viver até 600 anos, mas poucos tendem a passar dos 200 após a Era da Calamidade. Um ambiente hostil contribuiu para que basicamente não existisse Valas velhos hoje em dia.
 
@@ -86,6 +92,10 @@ Devido a sua capacidade rápida de se multiplicar e adaptar a diversos ambientes
 
 Os núros chegam à idade adulta no fim da adolescência e raramente vivem um século. 
 
+#### Bonificações de Raça
+* +1 Todos os Atributos
++ +8 Meses de Vida Inicial
+
 #### Mulheres e Homens
 Durante a escravidão, as mulheres tinham mais valor do que os homens, por poderem gerar novas proles. E, embora não se saiba se antes da escravidão era diferente, o valor pela capacidade de gerar vida permanece até hoje entre os Núros. A mulher é muito valorizada e mantida distante do perigo.
 
@@ -140,6 +150,11 @@ A beleza dos Valas desde o início foi chamativa e encantadora para os Núros. P
 Frutos do amor ou de uma relação forçada, o nascimento de um alayar nunca é comemorado. São renegados pela sociedade dos Núros, devido sua esterilidade que os torna incapazes de gerar filhos, e também renegados pela sociedade dos Valas que os olham com desprezo e ódio.
 
 Sua altura costuma variar entre 1,70m a 1,80m. A cor de pele costuma ser ditado pelos seus traços núros. Enquanto ainda possuem as orelhas pontiagudas dos valas, elas costumam ser mais arredondadas e menos proeminentes. Os cabelos também costumam puxar para o lado dos núros, porém com uma maior grade de cores entre um azul escuro ou verde esmeralda. 
+
+#### Bonificações de Raça
+* +2 de Destreza e +1 de Inteligência
++ +10 Meses de Vida Inicial
++ Visão Nortuna
 
 #### Orgulho e Preconceito
 Renegado por ambas as suas raças de origem, exilados e até mesmo caçados. Os Alayárz costumam se sentir sempre em perigo e são cuidadosos com aqueles que se relacionam.

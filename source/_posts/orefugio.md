@@ -3,8 +3,7 @@ title: O Refúgio
 author: Vitor Lima
 date: 2017-10-12 16:34:33
 tags:
-cover_detail: /images/refugio_background.jpg
-thumbnail: /images/refugio_index.jpg
+thumbnail: /images/refugio_background.jpg
 categories:
   - Contos
 ---

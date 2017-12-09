@@ -1,6 +1,5 @@
-title: Livro de Regras
-thumbnail:: 
-cover_index: /images/rulebook_cover.jpg
+---
+title: Regras do Servidor
 tags:
   - regras
   - servidor
