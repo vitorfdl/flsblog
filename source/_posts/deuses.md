@@ -59,7 +59,7 @@ E Miguel que não era Miguel respondeu: — Não sou Miguel, embora seja este o 
 E eles tremeram. Mas muitos se recusaram a acreditar. Chamaram-no de demônio e o ameaçaram. Disseram palavras ríspidas e assustadas. Jogaram-no pedra e cuspiram nele e em sua mãe.<br/>
 E então Anar se zangou, e poderia ter matado todos, mas Isabel se aproximou de um salto e tocou o seu ombro: — O que mais pode se esperar? De homens que tem demônios como seus vizinhos? Até o melhor dos cães é capaz de morder se lhe chutar o suficiente.
 
-— **Lanci, filho de Braum, tens amantes a quem pagas para se deitar com ti. Alguns homens te procuram em busca de trabalho e tu os enganas ou roubas. E, embora reze em voz alta, não acreditas que eu, Anar, tenha criado o mundo e zele por todos que aqui vivem.**
+— **Lanci, filho de Braum, tens amantes a quem pagas para se deitar contigo. Alguns homens te procuram em busca de trabalho e tu os enganas ou roubas. E, embora reze em voz alta, não acreditas que eu, Anar, tenha criado o mundo e zele por todos que aqui vivem.**
 
 Ao ouvir isso, o ferreiro empalideceu deixou cair o martelo, pois o que Anar disse era verdade. Anar olhou para todos os homens e mulheres presentes. Perscrutou-lhes o coração e falou o que viu. Todos eram iníquos, tantos assim que Lanci estava entre os melhores.
 
@@ -98,7 +98,7 @@ Sol, vida, justiça, honra, bondade, necromancia, cura e guerra.
 #### Atualidade
 Anar é o representante da justiça, da guerra e da vida. São os três principais conceitos sustentados pela Igreja de Anar.
 
-Conhecido por todos e reverenciado principalmente pelos Núros. Anar só não é o maior deus do panteão de  mbar pela existência dos Valas que se recusam a reconhecê-lo como soberano.
+Conhecido por todos e reverenciado principalmente pelos Núros. Anar só não é o maior deus do panteão de Âmbar pela existência dos Valas que se recusam a reconhecê-lo como soberano.
 
 Sua maior influência é pela Igreja de Anar, que repassa seus mandamentos e a mantém vivo sua história. Mesmo aqueles que não se importam com o deus, no mínimo a de teme-lo. As mãos da igreja é capaz de tirar e colocar reis em seus tronos quando apoiado pela força da população. Reis são substituíveis, os clérigos não.
 
@@ -136,9 +136,8 @@ As criaturas se espalharam pelo reino da lua, amaldiçoaram sua terra sagrada e 
 
 Em sua ira, Seredhiel reuniu um grande poder e baniu os Moriquendi da terra sagrada e os baniu para o reino das trevas, selando a entrada do reino para que jamais pudessem sair. Temendo que o reino da lua ficasse em perigo novamente, ela escolheu três Valas de destaque e lhes ensinou a cada um dom diferente.
 
-Para Mirantha ela ensinou o dom de mudar o mundo através do idioma dos deuses.
-Para Velaran ela ensinou o dom de mudar as coisas através do conhecimento material.
-Para Baldesh ela ensinou o dom de falar com os espíritos e fazê-los obedecer.
+Mirantha lutou ao lado dos elementais usando seu próprio corpo como catalizador do poder deles. A ela Seredhiel ensinou o dom de mudar o mundo através do idioma dos deuses. Valeran criou armas dos materiais mágicos do Reino da Noite e a ele foi concedido o dom de mudar as coisas através do conhecimento material. Baldesh coordenou as criaturas mágicas na luta contra os Moriquendis e de Seredhiel recebeu o dom de falar com os espíritos e fazê-los obedecer.
+
 
 Para eles, ela pediu que obedecessem apenas a três leis e partiu, deixando-lhes a responsabilidade de trazer ordem ao mundo.
 
@@ -156,9 +155,17 @@ Pediu aos espíritos que lhe ajudassem e prometeu a eles muitas coisas. Os espí
 
 Mirantha notou que sua obra se desfazia sobre o mundo e a paz lentamente se rompia. Ela descobriu os planos de seu irmão e pediu ajuda a Valeran para vencê-lo, mas Valeran negou ajuda e continuou preso em sua torre.
 
-Assim, Mirantha marchou em direção a Baldesh para pará-lo. Encurralado, o irmão apressou seus preparativos com o outro lado e invocou um grande poder. O poder, no entanto, o consumiu e consumiu tudo a sua volta. O reino da lua quase foi destruído, e junto quase toda vida que o habitava. No local onde Baldesh invocou o poder, não existia mais vida e nem morte. As árvores embora mortas, não perdiam suas folhas. Corpos jaziam mortos e nem mesmo cheiravam, uma vez que não havia decompositores para comê-los. 
+Assim, Mirantha reuniu outros Valas e criaturas do Reino da Noite e marchou em direção a Baldesh para pôr um fim a sua obra. Encurralado, o irmão apressou seus preparativos com o outro lado e invocou um grande poder. No entanto ele e tudo a sua volta foram consumidos por aquele poder. O reino da lua quase foi destruído, e junto quase toda vida que o habitava. No local onde Baldesh fez sua obra não existia mais vida e nem morte. As árvores, embora mortas, não perdiam suas folhas. Corpos jaziam sem vida, mas não entravam em decomposição, nada havia sobrevivido, nem mesmo a ordem natural da vida e da morte.
 
-Seredhiel lançou sua ira sobre os Valas e muitos morreram. Mirantha orou e pediu perdão e misericórdia para a deusa, e num último ato Seredhiel expulsou os Valas do reino da lua.
+O poder invocado por Baldesh fora tão forte e corrupto que conseguiu acordar a Deusa da Lua, mesmo ainda cansada da primeira guerra contra os Moriquendis. Ela olhou o estado do seu reino, a terra tinha sido corrompida, as criaturas que tanto amava tinham morrido nas garras uma das outras e aqueles os quais tinha depositado a confiança para proteger o mundo tinham lhe traído.
+
+Lágrimas escorreram pelos olhos da Deusa e todas as criaturas uivaram em tristeza em uníssono. Porém logo aquela emoção deu lugar a raiva e ela lançou sua ira contra os Valas. Todas as cidades que Mirantha ergueu foram destruídas sobre a fúria dos elementos que antes tinham posto um fim a invasão dos Moriquendis. As criaturas que uma vez lutaram ao lado dos Valas agora dilaceravam os seus corpos.
+
+Seredhiel andava implacável pelo seu reino, sem dó nem piedade descendo sua ira divina sobre todos os Valas que encontrava, até que chegou a torre de Valeran. Aquela construção erguia-se entre as nuvens e representava todo o ódio que ela sentia naquele momento pelos Valas. Ela ergueu sua mão na direção da torre e uma explosão de elementos pôs tudo abaixo soterrando os Valas que se abrigavam nela assim como o próprio Valeran.
+Mirantha usou o dom do idioma dos deuses para impedir que o turbilhão de energia que arrodeava a deusa dilacerasse seu corpo. Quase exaurida de todas suas energias ela conseguiu chegar perto o suficiente de Seredhiel para que ela pudesse ouvir suas palavras. Se ajoelhando ela orou e implorou a Deusa da Noite pedindo por perdão e misericórdia, ela contou como nem todos os Valas haviam traído a deusa, que muitos tinham se juntado a ela e levantado armas para impedir a obra de Baldesh.
+
+Seredhiel olhou nos olhos de Mirantha com toda sua fúria e quando um massivo raio caía dos céus na direção da Valas, em um último ato ela expulsou todos os Valas sobreviventes do seu reino.
+
 
 #### Conceitos
 Lua, conhecimento, aposta, jogo, sorte e furtividade.
@@ -186,7 +193,7 @@ Ao partir do mundo terreno, Seredhiel deixou apenas três leis a serem seguidas 
 ![](/images/deuses/deuses_eradich.jpg){ .img-left }
 Louvada pelos Núros de Drauan no passado, este é o unico conhecimento histórico de uma raça inteligente seguindo a Eradich.
 
-Pouco se sabe sobre a deusa, sua origem ou sua influência no mundo de  mbar. As vezes em que suas escrituras são encontradas estão em lingua antiga, e embora os clérigos de Anar sejam capazes de ler estas escrituras, alegam que elas não fazem qualquer sentido na língua comum. 
+Pouco se sabe sobre a deusa, sua origem ou sua influência no mundo de Âmbar. As vezes em que suas escrituras são encontradas estão em lingua antiga, e embora os clérigos de Anar sejam capazes de ler estas escrituras, alegam que elas não fazem qualquer sentido na língua comum. 
 
 Algumas criaturas semi-inteligentes também parecem ter apreço pela deusa, sendo encontrada em tribos de animais humanóides como lagartos e ratos.
 

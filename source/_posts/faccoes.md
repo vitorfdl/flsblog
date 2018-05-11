@@ -32,27 +32,32 @@ Garantem também que as leis de Seredhiel sejam seguidas pelos magos e punem rig
 ![](/images/faccoes/anar_church.jpg){ .img-left }
 
 ## Igreja de Anar
-Fundada antes mesmo dos Valas aparecem no mundo, a Igreja de Anar data meio milênio após Anar andar na forma de Miguel em  mbar. 
+Fundada antes mesmo dos Valas aparecem no mundo, a Igreja de Anar data meio milênio após Anar andar na forma de Miguel em Âmbar.
+Após expulsar os moriquendi e ensinar o caminho da virtude aos Núros, a Igreja de Anar foi fundada pela sua primeira esposa Isabel. Seus mandamentos foram escritos em pedra, de forma que toda Igreja posterior mantém um grande monumento da mesma com seus mandamentos a vista.
 
-Após expulsar os moriquendi e ensinar o caminho da virtude aos Núros, a Igreja de Anar foi fundada pela sua primeira esposa Isabel. Seus mandamentos foram escritos e pedra, de forma que toda Igreja posterior mantém um grande monumento de pedra com seus mandamentos a vista.
+Isabel refez o ritual de Anar para que uma mulher se tornasse a mais pura e virtuosa, uma esposa do próprio deus. 
 
-Isabel refez o ritual de Anar para que uma mulher se tornasse a mais pura e virtuosa, uma esposa do próprio deus. Para tanto, ela deveria ter um filho antes de entrar na igreja e tampar seu rosto e corpo para que nenhum homem a cobiçasse. Apenas Anar a veria como realmente é. Ao longo dos tempos isso foi repetido, de forma que suas Anar'emel usam máscaras, vestidos e são consideradas santas onde quer que pisem.
+Para tanto, ela deveria ter um filho antes de entrar na igreja e tampar seu rosto e corpo para que nenhum homem a cobiçasse. Apenas Anar a veria como realmente é. Ao longo dos tempos isso foi repetido, de forma que suas Anar’emel usam máscaras, vestidos e são consideradas santas onde quer que pisem.
 
-Os homens da igreja são virtuosos e aprendem as runas de Anar desde o primeiro ensinamento, junto da arte da luta. Enquanto as Anar'emel mantém o controle e guardam as cidades, os Anar'atar expandem suas proteções e auxílio em terras longínquas.
-
+Os homens da igreja são virtuosos e aprendem as runas de Anar desde o primeiro ensinamento, junto da arte da luta. Enquanto as Anar’emel mantém o controle e guardam as cidades, os Anar’atar expandem suas proteções e auxílio em terras longínquas.
+ 
 O salão onde os cultos são realizados são padronizados por uma mesa central, com um palco a frente e dois menores nas laterais. É comum que os cultos sejam realizados por dois clérigos ao invés de um, utilizando-se destes palcos laterais.
 
-O culto entretanto não pede por bênçãos ou se fazem orações fervorosas. A Igreja acredita que estes são valores guardados para Anar e não para o público, de forma que seus seguidores o praticam em silêncio. Um culto a Anar pode envolver o julgamento, o debate de uma batalha ou até mesmo o simples festejo com um grande banquete.
+O culto entretanto não pede por bênçãos ou se fazem orações fervorosas. A Igreja acredita que estes são valores guardados para Anar e não para o público, de forma que seus seguidores o praticam em silêncio. Um culto a anar normalmente envolve duelos com mãos nuas, gritarias, muita bebida, discussões sobre a próxima incursão e exaltação de feitos e demonstrações de perseverança dos membros e suas ovelhas.
 
-**Objetivos:** A Igreja procura sempre manter seu povo a salvo, e os auxilia em troca de dinheiro ou favores. Nela também ocorre julgamentos e decisões importantes que envolvem a população local. É comum o rei de usar a Igreja de Anar para debater com seus cidadãos ou passar notícias importantes.
+Dentro da ordem há a iniciação para se tornar um Anar’Atar. Após isso, guerreiro santo possui dois destinos: se tornar um Martelo de Anar (Mael’Anar) ou uma tábula de Anar (Talael’Anar). Os martelos de Anar são Anar’Atar com maiores potencialidades para o combate físico - veteranos de décadas a serviço da igreja que por milagre, sobreviveram aos maiores demônios que se puseram em seu caminho. Seu objetivo maior é encontrar paradeiros sobre o único demônio que passou a eternidade fugindo de Anar, acreditando que este é o responsável pela volta dos moriquendis. Acreditam ainda que por ganharem este título - descendem de Lanci - o primeiro perdoado e portanto não se envolvem com mulheres e apenas recebem de soldo o que a igreja os oferece. Um Mael’Anar jura ainda nunca deixar um Talael’Anar morrer em combate - pois acreditam que suas palavras serão a última esperança frente ao dia em que finalmente combaterem o demônio fugitivo - capaz de corromper qualquer homem.
 
-Acima de tudo isso está a pesquisa pelas runas e milagres. A Igreja é pioneira ao enviar clérigos e grupos para ruínas distantes onde acredita que pode guardar conhecimento antigos que possam combater os Moriquendi.
+Em seguida, vem os Talael’Anar - capelães de um capítulo inteiro (igreja de Anar local) - os mais velhos Anar’Atar e peritos nas artes rúnicas. São dotados de uma intensa carisma e fanatismo pelos mandamentos e cultos da igreja. Quando presentes, sempre organizam o culto em relação a outros membros. Por terem alcançado uma idade antiga, são reverenciados como arquivos vivos por seus irmãos e fonte de inspiração frente aos terrores abissais de Âmbar. Sempre acompanham outros Anar’Atar nas empreitadas - ficando a retaguarda destes e dizem que as litúrgias e palavras de um Talael’Anar são capazes de emprestar o próprio sol a guerreiros a beira da loucura e desesperança - impulsionando-os a um último acesso de bravura para derrubar o antagonista da igreja.
 
-**Traços visuais e comportamentais:** As Anar'emel utilizam de vestidos longos e procuram cobrir o máximo do corpo, além de esconderem os rostos em máscaras brancas. Muitas sabem lutar e portanto carregam armas.
+**Objetivos:** A Igreja procura sempre manter seu povo a salvo, e os auxilia em troca de dinheiro ou favores. Nela também ocorre julgamentos e decisões importantes que envolvem a população local. É comum o rei usar a Igreja de Anar para debater com seus cidadãos ou passar notícias importantes.
 
-Os Anar'atar utilizam mantos de num azul escuro e armaduras médias. Devem se portar com respeito e podem executar julgamentos na ausência de uma 'emel. A arma mais comum entre os membros da arma são de concussão, como maças ou martelos. Como valorizam a vida eles procuram não derramar sangue no combate. 
+Acima de tudo isso está a pesquisa pelas runas e milagres. A Igreja é pioneira ao enviar clérigos e grupos para ruínas distantes onde acredita que pode guardar conhecimento antigos que possam combater os Moriquendi. Por fim, como última prioridade - vem a caça aos hessaltars - feita por clérigos mais antigos e experientes.
 
-Os aprendizes da ordem se diferenciam nas cores, onde o azul tem um tom mais desbotado e o branco torna-se um cinza mais escuro. 
+**Traços visuais e comportamentais:** As Anar’emel utilizam de vestidos longos e procuram cobrir o máximo do corpo, além de esconderem os rostos em máscaras brancas. Muitas são formidáveis oponentes e temidas pela força, embora raramente demonstrando seu leque inteiro.
+
+Os Anar’atar utilizam mantos de num azul escuro e armaduras médias. Devem se portar com respeito e podem executar julgamentos na ausência de uma ’emel. A arma mais comum entre os membros da arma são de concussão, como maças ou martelos. Como valorizam a vida eles procuram não derramar sangue no combate.
+
+Os aprendizes da ordem se diferenciam nas cores, onde o azul tem um tom mais desbotado e o branco torna-se um cinza mais escuro. Um Talael’Anar carrega um manto pingente em formato de uma tabula de pedra e um Mael’Anar é diferenciado por um pingente de martelo de ferreiro.
 
 **Local de Atuação:** O Refúgio
 

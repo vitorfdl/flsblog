@@ -11,7 +11,7 @@ A existência dos moriquendi data muito antes da humanidade sequer existir. Embo
 
 Possuem diversas formas, com asas ou nadadeiras, em formas de cães que cospem fogo ou grandes criaturas com diversos tentáculos. Possuem peles tão duras que armas de baixa qualidade são incapazes de lhes causar o mínimo arranhão. E quando as armas são eficazes, eles se regeneram em velocidade absurda, dado que poucos segundos depois já não é possível ver o dano causado.
 
-Surgem na completa escuridão quando o sol já não mais ilumina  mbar. E surgem ainda mais numerosos durante a lua nova, quando a luz é mais fraca. Antes de tocarem o solo, é possível ver suas formas fantasmagóricas pairando antes de finalmente materializar-se. 
+Surgem na completa escuridão quando o sol já não mais ilumina Âmbar. E surgem ainda mais numerosos durante a lua nova, quando a luz é mais fraca. Antes de tocarem o solo, é possível ver suas formas fantasmagóricas pairando antes de finalmente materializar-se. 
 
 Três são as maneiras conhecidas de se combater os moriquendi: A magia, as runas e o sol. 
 

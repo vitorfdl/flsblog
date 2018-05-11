@@ -93,5 +93,11 @@ date: 2017-10-10 18:55:00
 
 > **Ano 25 -** O Igreja de Anar é construída no Refúgio, ao mesmo tempo que inicia-se a construção das forças de Seredhiel nas muralhas. A população do Refúgio começa a crescer com a união das três raças.
 
+> **Ano 26 -** Seredh`Turã Yutao é assassinado e inicia-se uma reforma geral no Refúgio para estruturas de pedra. Uma nova cidade se forma pelos exilados em uma ilha distante.
+
+> **Ano 27 -** Varias ameaças se tornam evidentes e magos são corrompidos por moriquendis. O General Yusuruh morre ao cair da ameia das muralhas e o conselho do Refúgio assume o poder. Zhanir Azalesh, um Vala da Ordem dos Magos toma o papel de inquisidor e chantageia o conselho na tentativa de se tornar soberano, sendo rechaçado pela Igreja de Anar.
+
+> **Ano 28 -** O retorno da familia Vanclair, descendente de Miguel Vanclair por nome, retorna ao Refúgio após ser resgatada de um forte. Como Inquisidora, ela não pode assumir o trono e então um novo rei é apontado pela igreja e pela ordem dos magos. Rei Kyle Embiid assume o trono e o Refúgio passa ser chamado de Reino Silanor em homenagem ao sol e a lua. Ao mesmo tempo a cidade dos exilados se moderniza e começa e instala uma nova ordem de magos liderados por Zhanir Azalesh.
+
 
 <br>

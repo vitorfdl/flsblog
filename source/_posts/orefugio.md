@@ -7,7 +7,7 @@ thumbnail: /images/refugio_background.jpg
 categories:
   - Contos
 ---
-Liderado pelo Gladi'turã Yusuruh Mar'alen. O Refúgio constituiu a última civilização organizada de  mbar, ou assim acreditam seus moradores. Ela foi construída pelos sobreviventes de Ostorumë, quando o general abandonou as defesas da cidade após a morte do rei.
+Liderado pelo Gladi'turã Yusuruh Mar'alen. O Refúgio constituiu a última civilização organizada de Âmbar, ou assim acreditam seus moradores. Ela foi construída pelos sobreviventes de Ostorumë, quando o general abandonou as defesas da cidade após a morte do rei.
 
 Envolta por montanhas e próximo a praia de Yelwë, suas principais construções são as muralhas fortificadas e protegidas por runas, guarnecida pela Ordem de Seredhiel, a Igreja de Anar e a Torre do General. 
 

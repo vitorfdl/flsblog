@@ -1,12 +1,11 @@
----
-title: Introdução
+title: Ambientação
 date: 2017-05-26 02:05:18
 ---
-Do leste árido à vasta e densa floresta no oeste, está o continente de Endórë. Um território hostil e selvagem, abrigando diversas ruínas antigas e fortes abandonados. Endórë é apenas um continente no mundo de  mbar. Navios chegam e vão há outras terras distantes, mas é em Endórë que está a última resistência da civilização, onde tudo acontece.
+Do leste árido à vasta e densa floresta no oeste, está o continente de Endórë. Um território hostil e selvagem, abrigando diversas ruínas antigas e fortes abandonados. Endórë é apenas um continente no mundo de Âmbar. Navios chegam e vão há outras terras distantes, mas é em Endórë que está a última resistência da civilização, onde tudo acontece.
 
 A estradas antigamente usadas com frequência, agora são cobertas pelas gramas altas e mal podem ser reconhecidas. Criaturas mortíferas  e magias perversas são o cotidiano daqueles que se aventuram para além das proteções do deus *Anar*. 
 
- mbar é um mundo habitado por uma grande diversidade de criaturas inteligentes e outras nem tanto. *Núros* (humanos), *Valas* (elfos) e *Alayárz*  (meio-elfos) coexistem em uma tênue balança de poder, onde culturas constantemente se chocam e mágoas antigas influenciam importantes decisões.
+Âmbar é um mundo habitado por uma grande diversidade de criaturas inteligentes e outras nem tanto. *Núros* (humanos), *Valas* (elfos) e *Alayárz*  (meio-elfos) coexistem em uma tênue balança de poder, onde culturas constantemente se chocam e mágoas antigas influenciam importantes decisões.
 
 Os conflitos se iniciaram antes a Era da Calamidade, quando os primeiros Valas dominaram os Núros. Nunca tendo antes visto a magia e o seu poder devastador, tornando as leis da física sua perversa inimiga, os Núros tiveram uma derrota vexaminosa. Suas cidades rapidamente tomadas, líderes mortos e a população escravizada.
 
@@ -31,12 +30,8 @@ Até que chegou a Era da Calamidade. Os Moriquendi vieram com toda sua força e 
 * [O Refúgio](/orefugio/)
 
 ## Sistema
-* [Criação de Personagem](/criacaopersonagem/)
-* [Classes](/classes/)
-	* [Guerreiro](/classes#guerreiro)
-	* [Mago](/classes#mago)
-	* [Ladino](/classes#ladino)
-	* [Clérigo](/classes#clérigo)
+* [Criação de Personagem](/criacao-personagem/)
+* [Atributos e Perícias](/atributos-habilidades/)
 * [Sistemas Básicos](/categories/Sistemas/)
 * [Download do Jogo](/downloads/)
 
@@ -45,7 +40,7 @@ Até que chegou a Era da Calamidade. Os Moriquendi vieram com toda sua força e 
 |      Palavra    | Descrição  |
 |-|-|
 | ***Âmbar***       | Mundo do jogo.                                      |
-| ***Endórë***      | Continente de  mbar que se passa o jogo.            |
+| ***Endórë***      | Continente de Âmbar que se passa o jogo.            |
 | ***Refúgio***     | Última cidade refúgio dos sobreviventes de Endórë.  |
 | ***Anar***        | Deus do sol.                                        |
 | ***Seredhiel***   | Deusa da lua.                                       |
@@ -53,7 +48,7 @@ Até que chegou a Era da Calamidade. Os Moriquendi vieram com toda sua força e 
 | ***Valas***       | Nome élfico para elfos.    |
 | ***Núros***       | Nome élfico para humanos.    |
 | ***Alayárz***     | Nome élfico para meio-elfos.   |
-| ***Moriquendi***  | Demônios que assolam os povos de  mbar.    |
+| ***Moriquendi***  | Demônios que assolam os povos de Âmbar.    |
 | ***'Atar***       | Sufixo para homem.   |
 | ***'Emel***       | Sufixo para mulher.    |
 | ***'Nya***        | Sufixo para homem aprendiz.    |
