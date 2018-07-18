@@ -36,6 +36,6 @@ Um administrador de hotelaria é responsável por administrar quartos em uma con
 **Falar: alugar / quartos:** Abre a janela de quartos alugáveis.
 Também é possível nesta janela trocar a fechadura do seu quarto, romper o contrato de aluguel ou pagar a próxima mensalidade do aluguel.
 
-Ao alugar um quarto, toda semana será necessário renovar o aluguel. A opção estará disponível na janela de quartos, e você terá três dias para fazê-lo após o vencimento.
+Ao alugar um quarto, toda semana será necessário renovar o aluguel. A opção estará disponível na janela de quartos, e você terá três dias para fazê-lo após o vencimento
 
 Não realizando o pagamento, todos os itens do seu quarto ficarão retidos com o npc e você terá de pagar uma taxa de multa com ele para adquirir seus pertences de volta. O quarto também ficará disponível para ser alugado por outra pessoa.
