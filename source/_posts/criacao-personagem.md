@@ -1,10 +1,9 @@
----
 title: Criação de Personagem
 author: Vitor Lima
-date: 2018-03-18 06:20:40
 thumbnail: /images/criacao/index.jpg
 categories:
   - Sistemas
+date: 2018-03-18 06:20:40
 ---
 
 ![](/images/criacao/jump1.png){ .img-right width=200px }

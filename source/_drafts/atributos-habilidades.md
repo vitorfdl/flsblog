@@ -1,10 +1,9 @@
----
 title: Atributos e Habilidades
 author: Vitor Lima
-date: 2017-11-16 07:12:03
 thumbnail: /images/indexes/atributos.jpg
 categories:
   - Sistemas
+date: 2017-11-16 07:12:03
 ---
 Os atributos são divididos em cinco categorias: Força, Destreza, Inteligência, Sabedoria e Constituição.
 Todos os testes e resistências recebem influência direta dos atributos. Durante a criação de personagem você terá a opção de definir quais destes atributos serão seus pontos fortes e quais serão os fracos.

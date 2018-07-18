@@ -1,7 +1,5 @@
----
 title: Evolução de Personagem
 author: Vitor Lima
-date: 2017-11-19 04:31:12
 thumbnail: /images/evolucao_background.jpg
 tags:
   - Niveis
@@ -9,6 +7,7 @@ tags:
   - Atributos
 categories:
   - Sistemas
+date: 2017-11-19 04:31:12
 ---
 No decorrer da vida do seu personagem ele irá evoluir de inúmeras formas. Itens, magias, níveis, habilidades, talentos e atributos são algumas delas.
 

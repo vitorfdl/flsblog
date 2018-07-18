@@ -1,11 +1,10 @@
----
 title: Sistema de Morte e Envelhecimento
 author: Vitor Lima
-date: 2017-11-11 16:21:12
 thumbnail: /images/indexes/morte_envelhecimento.jpg
-tags:
 categories:
   - Sistemas
+date: 2017-11-11 16:21:12
+tags:
 ---
 
 Contamos com um sistema de envelhecimento. A partir do momento em que se cria o personagem e entra no mundo de Âmbar, seu personagem passa a ter 8 meses de vida, se for Núro ou Alayarz, e 10 meses de vida se for um Vala.
