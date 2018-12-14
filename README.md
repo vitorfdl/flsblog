@@ -43,7 +43,7 @@ Crie pastas caso queira organizar.
 Para referenciar elas dentro do markdown use:
 ![](/images/nome_da_imagem.png)
 
-### Subindo para o Repositório
+# Subindo para o Repositório
 Após instalar o github e clonar o repositório com **git clone https://github.com/vitorfdl/flsblog.git**
 
 Digite **git checkout -b seu_usuario**
