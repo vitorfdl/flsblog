@@ -11,19 +11,18 @@ Na disputa pelo domínio de toda Âmbar três raças entraram em conflito ao lon
 
 # Valas
 <br>
-Seres graciosos de porte majestoso e traços finos, os Valas são criaturas assustadoramente belas aos olhos de qualquer criatura. Característica responsável por muitos Núros os aceitassem fácilmente como soberanos no passado.
+Seres graciosos de porte majestoso e traços finos, os Valas são criaturas assustadoramente belas aos olhos de qualquer pessoa. Característica responsável para que muitos Núros os aceitassem fácilmente como soberanos no passado.
 
 ![](/images/raca_valas.jpg){ .img-left }
 Medem em média 1,60m de altura a pouco mais de 1,80m. São de um corpo mais esguio e os homens mais pesados do que as mulheres. A cor de pele pode variar em cores claras. Seus cabelos tendem a tons loiros, azuis e verdes. Os Valas não possuem pêlos faciais e ou pêlos no corpo.
 
 #### Bonificações de Raça
-* +2 de Inteligência e +1 de Destreza
-+ +10 Meses de Vida Inicial
-+ Visão Nortuna
 + Entender a Linguagem Élfica
++ Truque Esfera de Fogo: O conjurador é capaz de invocar um globo de fogo que ilumina os arredores e persegue o conjurador.
++ Truque Mover Objetos: O conjurador é capaz de mover objetos para qualquer local dentro do seu campo de visão.
 
 #### Exemplo de Nomes
-Os nomes Valanos remetem a uma complexa estrutura linguistica raramente dominada pelos Núros. Termos separados com aspas simples atribuem uma pausa rápida na fonética em que se pronuncia metade de uma consoante.
+Os nomes Vala remetem a uma complexa estrutura linguistica raramente dominada pelos Núros. Termos separados com aspas simples atribuem uma pausa rápida na fonética em que se pronuncia metade de uma consoante.
 
 Nomes Femininos comuns são:<br>
 Aluh'dra Milcanto  
@@ -35,7 +34,7 @@ Varun Valanar
 
 
 #### Vida Longa
-Podem viver até 600 anos, mas poucos passam dos 200 após a Era da Calamidade. Um ambiente hostil contribuiu para que basicamente não existisse Valas velhos hoje em dia.
+Podem viver até 600 anos, mas poucos tem passado dos 200 após a Era da Calamidade. Um ambiente hóstil contribuiu para que basicamente não existisse Valas idosos nos dias de hoje.
 
 Por conta dessa percepção de tempo diferenciada, os Valas tendem a parecer distantes e não se incomodarem com pequenos frutos do acaso. São lentos para fazer amigos e ainda mais lento para esquecê-los. Responde a insultos mesquinhos com indiferença e insultos mais graves com vingança.
 
@@ -49,14 +48,14 @@ Contos infantis dos Valas falam sobre fadas, unicórnios e outros seres, que viv
 #### Reinos Antigos
 Os Valas construíram em Âmbar uma sociedade matriarcal. As mulheres reinavam na maior hierarquia e decidiam como sua família deveria se portar e o que fazer, são chamadas de Emel'Turã.
 
-Poucas vezes na história um homem tentou ascender a cima de uma mulher, sendo rapidamente eliminado ao fazê-lo. A devoção dos Valas pelas mulheres é absoluta pela sua semelhança com a deusa da noite.
+Poucas vezes na história um homem tentou ascender a cima de uma mulher, tendo sua vida tomada ao fazê-lo. A devoção dos Valas pelas mulheres é absoluta pela sua semelhança com a deusa da noite.
 
 Existiam nobres e plebeus, sendo os nobres pertencentes às famílias mais conhecidas e poderosas. O laço familiar de um nobre é realmente importante, e muito raramente dois membros de uma família entram em conflito público. Uma exceção foi visto entre as herdeiras da Emel'Turã Balassui, em que suas quatro filhas acreditavam que a morte de sua mãe foi planejada por uma de suas irmãs e então entraram em guerra.
 
-O conceito de família para os Valas não quer dizer laços sanguíneos. Outro vala pode ser incorporado a família através de um ritual sagrado a deusa. É comum ver plebeus que se destaquem sendo incorporado a alguma família nobre e abandonando sua antiga, mas entre os próprios nobres isso é visto como traição das mais sujas.
+O conceito de família para os Valas não quer dizer laços sanguíneos. Outro Vala pode ser incorporado a família através de um ritual sagrado. É comum ver plebeus que se destaquem sendo incorporado a alguma família nobre e abandonando sua antiga, mas entre os próprios nobres isso é visto como traição das mais baixas.
 
 #### A Magia e a deusa Seredhiel
-Os Valas conhecem a magia como algo natural. Contos antigos falam sobre os três primeiros dos magos e os seus dons cedidos por Seredhiel. A herança destes dons foi misturado entre várias linhagens Valas que existem hoje.
+Os Valas conhecem a magia como algo natural. Contos antigos falam sobre os três primeiros dos magos e os seus dons cedidos por Seredhiel. A herança destes dons foram misturados entre as várias linhagens Valas que existem.
 
 A magia consiste no uso da energia junto de palavras divinas, entregues pela própria deusa aos primeiros magos. Desta forma, conforme mais velho o Vala mais poder ele tinha.
 
@@ -118,10 +117,6 @@ Fabricio Cantobravo
 Getúlio Escudogrande
 Marcelo Linguaforte
 
-#### Bonificações de Raça
-* +1 Todos os Atributos
-+ +8 Meses de Vida Inicial
-
 #### Mulheres e Homens
 Durante a escravidão, as mulheres apresentavam maior valor do que os homens por poderem gerar novas proles. Este valor pela capacidade de gerar vida permanece até hoje entre os Núros. A mulher é muito valorizada e mantida distante do perigo.
 
@@ -174,11 +169,6 @@ A beleza dos Valas desde o início foi chamativa e encantadora para os Núros. E
 Frutos do amor ou de uma relação forçada, o nascimento de um alayar nunca é comemorado. São renegados pela sociedade dos Núros, devido sua esterilidade que os torna incapazes de gerar filhos, e também renegados pela sociedade dos Valas que os olham com desprezo e ódio.
 
 Sua altura costuma variar entre 1,70m a 1,80m. A cor de pele costuma ser ditado pelos seus traços núros. Enquanto ainda possuem as orelhas pontiagudas dos valas, elas costumam ser mais arredondadas e menos proeminentes. Os cabelos também costumam puxar para o lado dos núros, porém com uma maior grade de cores entre um azul escuro ou verde esmeralda. 
-
-#### Bonificações de Raça
-* +2 de Destreza e +1 de Inteligência
-+ +10 Meses de Vida Inicial
-+ Visão Nortuna
 
 #### Orgulho e Preconceito
 Renegado por ambas as suas raças de origem, exilados e até mesmo caçados. Os Alayárz costumam se sentir sempre em perigo e são cuidadosos com aqueles que se relacionam.

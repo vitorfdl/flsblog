@@ -27,7 +27,7 @@ Até que chegou a Era da Calamidade. Os Moriquendi vieram com toda sua força e 
 	* [Aláyarz](/racas#alayárz)
 * [Facções](/faccoes/)
 * [Moriquendi](/moriquendi/)
-* [O Refúgio](/orefugio/)
+* [Reino de Silanor](/orefugio/)
 
 ## Sistema
 * [Criação de Personagem](/criacao-personagem/)
