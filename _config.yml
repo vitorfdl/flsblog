@@ -12,8 +12,8 @@ timezone: America/Sao_Paulo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://sussurroseternos.com
-root: /
+url: https://vitorfdl.github.io/
+root: /flsblog
 permalink: :title/
 permalink_defaults:
 
